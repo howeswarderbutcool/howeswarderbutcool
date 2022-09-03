@@ -22,7 +22,7 @@
   
 	you can reach me here:
   		Dc: rubydafemboy#9047 <-- pls here 
-  		E-mail: janikgilzer@gmail.com <-- only here if youre scared of discord/tencent
+  		E-mail: janikgilzer@gmail.com <-- only here if youre scared of discord/tencent (and yes I know Google bad too)
   
   
   
