@@ -21,8 +21,8 @@
   		thats why I love git <3 
   
 	you can reach me here:
-  		Dc: rubydafemboy#9047 <-- pls here 
-  		E-mail: janikgilzer@gmail.com <-- only here if youre scared of discord/tencent (and yes I know Google bad too)
+  		Dc: rubydafemboy#9047
+  		Im open to write somwere else:)
   
   
   
