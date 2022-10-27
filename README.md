@@ -22,7 +22,7 @@
   
 	you can reach me here:
   		Dc: rubydafemboy#9047
-  		Twitter: janikfemboy
+  	
   
   
   
