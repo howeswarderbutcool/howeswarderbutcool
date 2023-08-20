@@ -5,7 +5,7 @@ I'm a guy from germany and I like to code. Also...
 - I’m currently learning how to deal with no sleep.
 - How to reach me:
   -  Discord: [rubydafemboy](discordapp.com/users/435790473488105472)
-  -  Email1: howeswarder@protonmail.com
+  -  Email: howeswarder@protonmail.com
 
 ## Featured Projects
 - [python-file-overloader](https://github.com/howeswarderbutcool/python-file-overload) - print the input X times in a .txt file.
