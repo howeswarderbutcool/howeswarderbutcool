@@ -15,7 +15,7 @@ I'm a guy from germany and I like to code. Also...
 - Operating Systems: Linux/Windows
 - Networking: Cisco Networking essential
 - IDE/Text Editor: VS:Code (because im to silly to learn Vim)
-- Languages: Python/Java/C# (Learning C++)
+- Languages: Python/Java/C# 
 
 
 ## Fun Facts
