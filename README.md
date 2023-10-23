@@ -9,7 +9,7 @@ I'm a guy from germany and I like to code. Also...
 
 ## Featured Projects
 - [python-file-overloader](https://github.com/howeswarderbutcool/python-file-overload) - print the input X times in a .txt file.
-- [My Boi](https://github.com/Manily04) - Love to help him <3.
+
 
 ## Skills
 - Operating Systems: Linux/Windows
